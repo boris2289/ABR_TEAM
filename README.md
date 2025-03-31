@@ -2,7 +2,7 @@
 Our project on Django framework.
 
 
-Hello, here i uploaded some code with description. This project helps to download videos from YouTube after inserting link.
+Hello, here we uploaded some code with description. This project helps to download videos from YouTube after inserting link.
 
 This READMI file will introduce you to registration and login processes.
 
